@@ -8,12 +8,12 @@
 				"distribution": "internal"
 			},
 			"env": {
-				"EXPO_PUBLIC_WEATHER_APP_ID": "1358cc30cc29c3512f883cf8a40f4b05"
+				"EXPO_PUBLIC_WEATHER_APP_ID": "7218e2ece5e68ec99d558f37974d707c"
 			}
 		},
 		"production": {
 			"env": {
-				"EXPO_PUBLIC_WEATHER_APP_ID": "1358cc30cc29c3512f883cf8a40f4b05"
+				"EXPO_PUBLIC_WEATHER_APP_ID": "7218e2ece5e68ec99d558f37974d707c"
 			}
 		}
 	}
